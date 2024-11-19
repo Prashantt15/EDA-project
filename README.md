@@ -1,2 +1,2 @@
 # EDA-project
-Analyze Diwali sales data to improve customer experience and sales
+The primary objective of EDA is to analyze the data for distribution, outliers and anomalies in the dataset
